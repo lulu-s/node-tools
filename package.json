@@ -1,0 +1,25 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "node 实用工具库存 🔧",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lulu-s/node-tools.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lulu-s/node-tools/issues"
+  },
+  "homepage": "https://github.com/lulu-s/node-tools#readme",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "json-to-pretty-yaml": "^1.2.2",
+    "json2xls": "^0.1.2",
+    "yaml": "^1.10.2"
+  }
+}
