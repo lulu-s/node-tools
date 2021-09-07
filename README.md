@@ -17,6 +17,10 @@ node 实用工具库存 🔧
 * 执行： `node excelToJson.js`
 * 功能： 将 excel 转换为 json 格式文件并保存
 
+### jsonToExcel.js.js
+* 执行： `node jsonToExcel.js.js`
+* 功能： 将 json / yaml 转换为 excel 格式文件并保存
+
 ### demo.js
 * 执行： `node demo.js`
 * 功能：
