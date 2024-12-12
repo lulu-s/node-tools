@@ -20,3 +20,10 @@ tests/**/coverage/
 
 #
 node_modules/
+
+
+
+**/*.local/**
+**/local/**
+
+*.local.*
